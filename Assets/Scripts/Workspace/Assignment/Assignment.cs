@@ -8,7 +8,7 @@ namespace Assignment
         public void Start()
         {
             
-            AS01_CountWords();
+            //AS01_CountWords();
             // AS02_CountNumber();
             // AS03_CheckValidBrackets();
             // AS04_PrintReverseLinkedList();
